@@ -1,0 +1,9 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+<title> This is just a demo project</title>
+</head>
+<body>
+<p> Congratulations, You are just learning fine</p>
+<font size="7" face="spantaran" color="black"> STP</font>
+<font size="7" face="spantaran" color="black"> MEDIA</font>

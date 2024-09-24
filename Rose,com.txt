@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>
+Rose.com
+</title>
+</head>
+<body background="Rose.jpg">
+<center>
+<h1>Thank you</h1>
+<h3> The rose is a beautiful Flower. </h3>
+Rose is the universal symbol of love. It is considered an epitome of beauty and passion. Roses have been used as metaphors by renowned authors and poets over the centuries.
+Depending on their color, roses are said to have different meanings. Say for instance, pink roses are a symbol of youth and femininity, white roses symbolize purity, innocence and peace.
+Black roses are used as metaphors for death while yellow roses are associated with friendship, freedom and even jealousy.
+</center>
+</body>
+</html>
